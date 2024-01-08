@@ -4,8 +4,6 @@ NO OPEN CORE LEGACY PATCH NEEDED FOR POST INSTALL!
 
 SYSTEM BOOT WHITOUT USB STICK!
 
-![Sonoma 14 2 1](https://github.com/ionut-liviu/Sonoma-14.2.1-macOS-Hackintosh-EFI/assets/91989740/7689dfca-1729-4e42-a127-3b312b27ee91)
-
 (NO Errors) Only For:
 
 Gigabyte h310m gigabyte h310m h 2.0 v2 bulk ( NO NEED FOR USB PORTS MAPPING)
